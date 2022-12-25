@@ -37,7 +37,7 @@
     "identity-img": "^1.0.0",
     "jszip": "^3.2.1",
     "less": "^3.9.0",
-    "less-loader": "^4.1.0",
+    "less-loader": "^6.0.0",
     "mobx": "^5.9.0",
     "mobx-react": "^5.4.3",
     "mobx-utils": "^5.2.0",
