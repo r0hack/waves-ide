@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "dotenv": "^8.0.0",
     "errorhandler": "^1.5.1",
     "express": "^4.17.1",
